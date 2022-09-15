@@ -167,6 +167,22 @@ function App() {
                     A work in progress.
                   </ListItem>
                 </UnorderedList>
+                <Link href="https://www.behance.net/gallery/152781045/MineralMerchant" isExternal>
+                  <Text fontWeight="bold">
+                    Figma Project <ExternalLinkIcon mx="2px" />
+                  </Text>
+                </Link>
+                <UnorderedList>
+                  <ListItem>
+                    Mineral Merchant Landing.
+                  </ListItem>
+                  <ListItem>
+                    Building in Figma.
+                  </ListItem>
+                  <ListItem>
+                    A work in progress.
+                  </ListItem>
+                </UnorderedList>
               </GridItem>
               <GridItem colSpan={1} mt="15px">
                 <Image src={img}></Image>
@@ -223,7 +239,7 @@ function App() {
                 <Text display="inline" fontWeight="bold">
                   Strokes Graphic Studio{' '}
                 </Text>
-                <Text paddingBottom="10" display="inline">Graphic Artist</Text>
+                <Text paddingBottom="250" display="inline">Graphic Artist</Text>
 
                 <Divider />
               </GridItem>
