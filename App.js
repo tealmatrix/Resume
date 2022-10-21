@@ -216,8 +216,7 @@ function App() {
                 <UnorderedList>
                   <ListItem>NFT Portfolio.</ListItem>
                   <ListItem>Building in Figma.</ListItem>
-                  <ListItem>A work in progress.</ListItem>
-                  <ListItem></ListItem>
+                  <ListItem paddingBottom="20px">A work in progress.</ListItem>
                 </UnorderedList>
               </GridItem>
               <GridItem colSpan={1} mt="15px">
